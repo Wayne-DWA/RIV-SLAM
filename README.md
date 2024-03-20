@@ -1,2 +1,1 @@
-# RVI-SLAM
-RVI-SLAM: Radar-Inertial-Velocity optimization based graph SLAM
+# The code will be released once the paper is accepted
