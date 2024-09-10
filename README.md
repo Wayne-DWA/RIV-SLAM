@@ -33,8 +33,8 @@ ROS Melodic or Noetic. [ROS Installation](http://wiki.ros.org/ROS/Installation):
 - *floor_detection_nodelet*
 - *radar_graph_slam_nodelet*
 
-<div align="center">
-    <img src="doc/overview.png" width = 70% >
+<div align="left">
+    <img src="radar_graph_slam/doc/overview.png" width = 70% >
 </div>
 
 ## 3. optimization-based graph SLAM
@@ -44,8 +44,8 @@ Compared to the original software, we have introduced and modified the following
 - Veloctiy Factor
 - Ground Factor
 - sliding window for optimization
-<div align="center">
-    <img src="doc/graph.png" width = 70% >
+<div align="left">
+    <img src="radar_graph_slam/doc/graph.png" width = 70% >
 </div>
 
 ## 4. Run the package
